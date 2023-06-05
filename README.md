@@ -1,0 +1,1 @@
+# static_e_ticaret_flutter
